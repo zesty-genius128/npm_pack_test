@@ -16,7 +16,7 @@
     "kebabCase",
     "reverse"
   ],
-  "author": "Your Name",
+  "author": "Aditya",
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
