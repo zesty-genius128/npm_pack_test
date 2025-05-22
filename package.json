@@ -1,0 +1,24 @@
+{
+  "name": "string-utils-demo",
+  "version": "1.0.0",
+  "description": "A simple npm package providing handy string utility functions: capitalize, camelCase, kebabCase, and reverse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "string",
+    "utilities",
+    "capitalize",
+    "camelCase",
+    "kebabCase",
+    "reverse"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
